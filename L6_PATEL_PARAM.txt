@@ -1,0 +1,53 @@
+# Lab 6
+
+* *Date Created*: 19 03 2024
+* *Last Modification Date*: 21 02 2024
+* *Lab URL*: https://portfoliolab6.netlify.app/
+* *Git URL*: https://git.cs.dal.ca/pnp/csci3172.git 
+
+## Authors
+* [Param Patel] - *(pr574132)*
+
+## Getting Started.
+
+
+### Prerequisites
+
+### Installing
+
+1) NOTE THAT THE WHOLE CODE FOR THE LAB 5 WAS TAKEN FROM THE CODE OF LAB 9 WHICH WAS DONE BY @pnp.
+
+
+## Running the tests
+
+testing can be done via visiting the website :- https://portfoliolab6.netlify.app/
+No error on W3c validator.
+
+### Break down into end to end tests
+I have created the code by viewing the way that professor Mosquera did in the lecture 12 video;
+1)
+Test Case:
+
+2) 
+test case:- pnp@gmail.com
+
+3)
+pr574132@dal.ca
+
+### And coding style tests
+
+
+## Deployment
+
+https://portfoliolab6.netlify.app/
+
+## Sources Used
+
+1)https://www.w3schools.com/php/php_form_validation.asp
+https://www.w3schools.com/php/php_form_url_email.asp
+https://tryphp.w3schools.com/showphp.php?filename=demo_form_validation_special
+https://stackoverflow.com/questions/40200089/check-number-prime-in-javascript
+
+### File Name
+
+Lab 6

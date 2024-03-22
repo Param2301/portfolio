@@ -1,38 +1,115 @@
-.App {
-  text-align: center;
+body{
+  color: aliceblue;
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header{
+  margin: 90px 0px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+header h1{
+  font-size: 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+main h1{
+  font-size: 35px;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.edu, .edu1{
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: space-between;
+}
+
+.edu p{
+  font-weight: 500;
+  font-size: 25px;
+  margin: 0;
+}
+
+.edu1 p, ul li, .exp p{
+  font-size: 25px;
+  margin: 0;
+  font-weight: 300;
+}
+
+.exp h3{
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.eduInfo{
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 15px;
 }
 
-.App-link {
-  color: #61dafb;
+.education h1{
+  text-decoration: underline;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.address p{
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.links p{
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.App{
+  padding: 20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+header span{
+  margin: 20px;
+}
+
+.name h1{
+  text-align: center;
+
+}
+
+@media (max-width: 769px) {
+  body{
+    background-color: white;
+    color: black;
   }
-  to {
-    transform: rotate(360deg);
+}
+
+@media (max-width: 426px) {
+  body{
+    background-color: yellow;
+  }
+
+  .links p{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .exp h3{
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  .edu p{
+    font-weight: 500;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  .edu1 p, ul li, .exp p{
+    font-size: 15px;
+    margin: 0;
+    font-weight: 300;
   }
 }
