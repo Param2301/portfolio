@@ -13,9 +13,9 @@ function App() {
         <div className='links'>
           <p>
             <span>782-882-4466</span>
-            <span><a target="_blank" href="parampatel@dal.ca">parampatel@dal.ca</a></span>
-            <span><a target="_blank" href="https://www.linkedin.com/in/param-patel-227a72251/">Linkedin</a></span>
-            <span><a target="_blank" href="https://www.linkedin.com/in/param-patel-227a72251/">Github</a></span>
+            <span><a target="blank" href="parampatel@dal.ca">parampatel@dal.ca</a></span>
+            <span><a target="blank" href="https://www.linkedin.com/in/param-patel-227a72251/">Linkedin</a></span>
+            <span><a target="blank" href="https://www.linkedin.com/in/param-patel-227a72251/">Github</a></span>
           </p>
         </div>
       </header>
